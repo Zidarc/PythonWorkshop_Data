@@ -1,0 +1,86 @@
+Day 1: Introduction to Basics of Programming
+
+Variables and Data Types:
+Introduction to variables and their role in programming.
+Explanation of data types (int, float, str, bool).
+Variable naming conventions (snake_case for variables).
+Print statement for displaying output.
+Input statement for user interaction.
+Arithmetic operators (+, -, *, /, %, //).
+Logical operators (and, or, not).
+
+
+Day 2: Conditional Statements and Data Structures
+
+Selection Statements:
+Conditional statements using if, else, and elif.
+Switch-case like behavior using if, elif, and else.
+
+Lists, Tuples, and Dictionaries:
+Introduction to data structures: Lists (mutable), Tuples (immutable), Dictionaries (key-value pairs).
+
+
+
+Day 3: Loops and Functions
+
+Loops:
+for loops for iterating over sequences (lists, strings, etc.).
+while loops for repeated execution.
+
+Functions, Local, and Global Variables in Python:
+Parameters and Arguments.
+Return Values.
+Function Scope (local, enclosing, global, built-in).
+Local and Global variables.
+Function Recursion in Python.
+Lambda Functions.
+
+
+
+
+
+
+
+Day 4: Modules, Libraries, and File Handling
+
+Modules and Libraries:
+Creating Modules: How to create your own modules for organizing code.
+Importing Modules: Different ways to import modules (import, from ... import, as aliasing).
+
+File Handling (Reading and Writing Files).
+
+
+Day 5: Object-Oriented Programming (OOP)
+
+Methods, Objects, and Classes.
+Object-Oriented Programming (Inheritance, Encapsulation, Polymorphism).
+
+Day 6: Test
+
+
+Day 7: Exception Handling and Data Structures
+
+Exception Handling (try, except, finally, raise).
+
+Data Structures:
+Nodes, Linked Lists.
+Stack, Queue
+
+
+Day 8: Data Structure Continued
+
+Data Structures:
+Hashmap.
+Binary Tree.
+
+Complexities
+
+
+Day 9: Algorithms
+Linear search, binary search.
+Breadth-first search, Dijkstra's algorithm.
+Fibonacci sequence, 
+	Bubble sort, quicksort, merge sort..
+
+Day 10: Algorithms Continued
+Day 11: Test
