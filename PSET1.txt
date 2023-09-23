@@ -1,0 +1,28 @@
+Problem Set: The Great Adventure Game
+
+In this problem set, participants will build an interactive text-based adventure game. The game will incorporate various programming concepts learned during the workshop.
+
+Game Scenario:
+You are an explorer on a quest to find a hidden treasure in a mysterious jungle. Along the way, you will face challenges and make decisions that will determine your fate. Your goal is to reach the treasure and return safely.
+
+Tasks:
+
+Character Creation (Variables and Data Types): Create a Python program that allows the player to choose their character's name and assign it to a variable. Ensure the character name is of data type string. Ask the player for their age and store it in another variable as an integer.
+
+Journey Begins (Conditional Statements): Based on the player's age, determine whether they are old enough to embark on the adventure. If the player is under 18, display a message saying they are too young for the journey. If they are 18 or older, proceed to the next task.
+
+Choose Your Path (Conditional Statements and Data Structures): Present the player with three paths to choose from: "Jungle Trail," "Cave of Mystery," and "River Rapids." Use conditional statements (if, elif, else) to guide the player to the selected path based on their input.
+
+Exploration (Loops and Functions): Depending on the chosen path, create a function for each path that simulates exploration. Use loops (while) to describe the journey and keep track of the player's progress. Provide options for the player to make decisions during the exploration.
+
+Random Encounters (Conditional Statements and Data Structures): During the exploration, include random encounters such as encountering wild animals or finding helpful items. Use conditional statements to handle these encounters and update the player's status accordingly.
+
+Inventory System (Data Structures): Implement a simple inventory system using a list to allow the player to collect items found during the journey, such as a map, a flashlight, or a first-aid kit.
+
+Treasure Hunt (Algorithms): At the end of each path, create a puzzle or riddle that the player must solve using algorithms. For example, they might need to decode a message or find the correct sequence of actions to reach the treasure.
+
+Outcome (Conditional Statements and Exception Handling): Based on the player's decisions and how they handle the challenges, determine the outcome of the adventure. Use conditional statements to display different endings, such as finding the treasure, getting lost, or encountering danger. Implement exception handling to ensure the game doesn't crash in unexpected situations.
+
+Adventure Replay (Loops and Functions): After completing the adventure, ask the player if they want to play again. Use loops and functions to allow them to replay the game with a new character or explore different paths.
+
+Bonus Challenge (Object-Oriented Programming): For an extra challenge, refactor your code to use object-oriented programming (OOP) principles. Create classes for the character, items, and encounters to make the code more organized and maintainable.
