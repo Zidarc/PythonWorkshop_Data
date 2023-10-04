@@ -12,13 +12,13 @@ Library Catalog: Create a program that simulates a library catalog. Allow users 
 
 Day 3: Loops and Functions
 
-Number Guessing Game: Design a number guessing game where the computer generates a random number between 1 and 100, and the player has to guess it within a limited number of attempts. Provide hints to make it more challenging.
+Number Guessing Game: Design a number guessing game where the users generates a random number between 1 and 100, and the Computer has to guess it within a limited number of attempts.
 
 Recursive Art: Challenge participants to create a recursive function that generates intricate patterns or art, such as fractals. Let them experiment with different shapes and colors.
 
 Day 4: Modules, Libraries, and File Handling
 
-Weather App: Build a weather application that fetches real-time weather data from an online API and displays it to the user. Participants can choose their location to get weather updates.
+Weather App: Build a weather application that fetches weather data and displays it to the user. Participants can choose their location to get weather updates.
 
 Recipe Organizer: Create a program where users can input their favorite recipes and organize them in a digital cookbook. Allow users to search for recipes and even suggest ingredients for a surprise recipe.
 
